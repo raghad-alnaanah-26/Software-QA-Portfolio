@@ -13,15 +13,25 @@ Website: https://www.saucedemo.com/
 - Checkout Process
 
 ## Completed Testing
-### Login Functionality
-- 4 Test Cases Executed
-- 4 Passed
+
+- 35 Test Cases Executed
+- 35 Passed
 - 0 Failed
 
+### Covered Areas
+- Login
+- Logout
+- Product Browsing
+- Product Sorting
+- Product Details
+- Shopping Cart
+- Checkout
+- End-to-End Testing
+
 ## Test Documentation
-- Login Test Cases (Excel)
-- Bug Reports (Planned)
-- Test Summary Report (Planned)
+
+- SauceDemo_Manual_QA_Project_Final_35_Test_Cases.xlsx
 
 ## Project Status
-In Progress
+
+Completed
